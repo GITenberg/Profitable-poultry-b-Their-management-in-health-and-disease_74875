@@ -1,0 +1,35 @@
+_repo: Profitable-poultry-b-Their-management-in-health-and-disease_74875
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: https://en.wikipedia.org/wiki/Harrison_Weir
+creator:
+  author:
+    agent_name: Tegetmeier, W. B.
+    gutenberg_agent_id: '57702'
+    url: http://www.gutenberg.org/2009/agents/57702
+description: ''
+gutenberg_issued: '2024-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74875'
+language: en
+pgterms:marc905: 20241009172937tegetmeier
+pgterms:marc906: '1854'
+pgterms:marc907: GB
+production_note: Carol Brown and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bDarton and Co., $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Profitable poultry : $b Their management in health and disease'
+url: http://www.gutenberg.org/ebooks/74875
