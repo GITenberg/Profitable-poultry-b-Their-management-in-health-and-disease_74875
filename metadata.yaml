@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '8210'
     url: http://www.gutenberg.org/2009/agents/8210
     wikipedia: https://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 74875-h/images/cover.jpg
 creator:
   author:
     agent_name: Tegetmeier, W. B.
     gutenberg_agent_id: '57702'
     url: http://www.gutenberg.org/2009/agents/57702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74875#Profitable-poultry-b-Their-management-in-health-and-disease
 gutenberg_issued: '2024-12-11'
 gutenberg_type: Text
 identifiers:
